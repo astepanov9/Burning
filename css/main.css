@@ -97,7 +97,7 @@ p {
 .logo {
     margin-right: 69px;
 }
-.menu-open {
+.nav__menu-open {
     display: none;
     width: 100px;
     height: 100px;
@@ -247,7 +247,7 @@ p {
         display: none;
     }
 
-    .menu-open {
+    .nav__menu-open {
         display: block;
     }
 
